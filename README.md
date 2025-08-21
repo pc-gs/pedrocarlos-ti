@@ -14,7 +14,7 @@ I specialize in the **JavaScript ecosystem**—from web to mobile—with a growi
 
 - 🧠 Exploring **AI-powered solutions** with **OpenAI API**
 - ⚡ Diving deep into **Bun** as a modern replacement for Node.js
-- 🔥 Advancing in **Next.js App Router** and **React** for frontier web development
+- 🔥 Advancing in **Next.js App Router** and **React** for frontend
 - 📱 Building native apps with **React Native**, **Expo**, and modern stacks
 - 🌱 Using **Zustand** for lean and effective state management
 
