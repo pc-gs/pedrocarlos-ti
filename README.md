@@ -1,58 +1,71 @@
-# 👋 Hey, I'm Pedro Santos 🇧🇷 🇵🇹
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1500&color=14b8a6&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Pedro+Santos+%F0%9F%87%A7%F0%9F%87%B7+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing SVG" />
+</div>
 
-🎯 **Software Engineer | Fullstack JavaScript Dev | AI Explorer**
+## 🚀 About Me
+
+Developer with nearly a decade of experience, evolving from support roles into building scalable, user-focused applications. I founded **[Melro.io](https://melro.io)** to deliver custom software for local businesses, and I specialize in the modern **JavaScript/TypeScript** stack with a growing passion for **AI integration**.
+
+I enjoy creating performant web and mobile experiences that feel delightful to use — combining clean code, great UX, and intelligent features.
+
+> *"Code is the bridge between real problems and elegant digital solutions."*
 
 ---
 
-I'm a passionate developer with a background in Information Systems and a postgrad in Software Engineering. Over the last decade, I’ve grown from support roles into full-time software engineering—building modern, scalable applications with a strong focus on usability and performance.
+## 💼 What I'm Currently Building
 
-I specialize in the **JavaScript ecosystem**—from web to mobile—with a growing interest in **AI integration** to push the limits of what apps can do.
+- 🧠 **AI integrations** — OpenAI + local models in production apps
+- ⚡ Exploring **Bun** as a fast, modern runtime
+- 🔥 **Next.js App Router + React** for high-performance frontends
+- 📱 **React Native + Expo** for cross-platform mobile
+- 🛠️ Lightweight state management with **Zustand**
+- 🎨 Polished UIs with **Tailwind CSS** and smooth interactions
 
----
+### Featured Projects
 
-## 🚀 What I’m Working On
-
-- 🧠 Exploring **AI-powered solutions** with **OpenAI API**
-- ⚡ Diving deep into **Bun** as a modern replacement for Node.js
-- 🔥 Advancing in **Next.js App Router** and **React** for frontend
-- 📱 Building native apps with **React Native**, **Expo**, and modern stacks
-- 🌱 Using **Zustand** for lean and effective state management
+- **[MIRA](https://github.com/pc-gs/MIRA)** — Lightweight screen overlay & annotation tool for developers and presenters (Swift)
+- **[English-Sensei](https://github.com/pc-gs/English-Sensei)** — Local-first AI English writing coach that helps you improve through your mistakes (TypeScript)
 
 ---
 
 ## 🧰 Tech Stack
 
-<div align="left">
-  <img alt="TypeScript" width="32" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img alt="Next.js" width="32" src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-  <img alt="Tailwind CSS" width="32" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
-  <img alt="React" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
-  <img alt="React Native" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png"/>
-  <img alt="Node.js" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
-  <img alt="Bun" width="32" src="https://bun.sh/logo.svg" />
-  <img alt="Zustand" width="32" src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" />
-  <img alt="MongoDB" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img alt="Git" width="32" src="https://img.icons8.com/color/48/000000/git.png"/>
+<div align="center">
+
+**Core**  
+![Core](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,reactnative,expo&perline=7)
+
+**Runtime, Data & Tools**  
+![Tools](https://skillicons.dev/icons?i=bun,nodejs,mongodb,graphql,electron,git,appwrite&perline=7)
+
 </div>
 
 ---
 
-## 💼 Open to Collaborations
+## 🤝 Open to Opportunities
 
-I'm currently open to freelance/remote/full-time opportunities in:
+I'm open to **freelance, remote, or full-time** roles in:
 
-- 🧩 Frontend Development (React, Next.js)
-- 🌍 Fullstack JavaScript Engineering (Bun, Node, MongoDB)
-- 🤖 AI/ML-powered App Development
-- 📱 Mobile Development (React Native + Expo)
+- 🎨 **Frontend & Fullstack JavaScript/TypeScript** (React, Next.js, Bun, Tailwind)
+- 📱 **Mobile Development** (React Native + Expo)
+- 🤖 **AI-Powered Product Development**
+- 🛠️ **Developer Tools & DX**
+
+Particularly interested in roles where I can combine **strong UX + AI capabilities + performant code**.
+
+👉 Portfolio: [pedrosantos.dev](https://pedrosantos.dev)  
+Company: [melro.io](https://melro.io)
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-- 💌 Email: pedrocarlos.ti@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-santos/)
+- 🐦 [X / Twitter](https://x.com/pcgs_tsx)
+- 📧 [pedrocarlos.ti@gmail.com](mailto:pedrocarlos.ti@gmail.com) • Business: [developer@melro.io](mailto:developer@melro.io)
 
 ---
 
-> 💡 *“I'm not just coding apps—I’m designing experiences, solving real problems, and experimenting at the edge of tech.”*
+<div align="center">
+  <sub>💡 Building delightful experiences at the intersection of code, design, and intelligence.</sub>
+</div>
